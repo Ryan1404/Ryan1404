@@ -52,6 +52,8 @@ Feel free to connect with me:
 
 📧 Email: maharajryan964@gmail.com
 
-🌐 Portfolio: your-portfolio-link.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/ryanmaharaj1404/
+
+🌐 Portfolio: https://ryan1404.github.io/Ryan1404/
+
+
