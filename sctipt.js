@@ -127,3 +127,5 @@ window.addEventListener('scroll', animateProgressBars);
 
 // Initial call to ensure bars animate on load if they're in view
 document.addEventListener('DOMContentLoaded', animateProgressBars);
+
+
