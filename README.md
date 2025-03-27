@@ -2,6 +2,10 @@
 
 Welcome to my personal portfolio! This website showcases my projects, skills, experience, and background in Information Technology. It serves as a professional hub where potential employers, clients, and collaborators can learn more about my work and connect with me.
 
+
+![image](https://github.com/user-attachments/assets/6b706c63-852d-4f3a-86a1-92c9a5d5f090)
+
+
 🚀 Features
 
 About Me: A brief introduction to who I am and my career aspirations.
